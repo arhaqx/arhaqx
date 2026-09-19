@@ -36,12 +36,13 @@ I am an Informatics Engineering graduate from **Dian Nuswantoro University (UDIN
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=arhaqx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_rank=true&hide=stars,issues" alt="Arinal's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=arhaqx&hide_total_contributions=true&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=arhaqx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_rank=true&hide=stars,issues&include_all_commits=true" alt="Arinal's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=arhaqx&timezone=Asia/Jakarta&theme=tokyonight&hide_border=true&background=0d1117&hide_total_contributions=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arhaqx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
+
 ---
 
 ### 🌐 Connect With Me
