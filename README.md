@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arhaqx/arhaqx/main/banner.gif" width="100%" alt="banner"/>
+</p>
+
 # Hi there, I'm Muhammad Arinal Haq 👋 
 ### Full Stack Web Developer & AI Systems Engineer
 
